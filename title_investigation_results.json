@@ -1,0 +1,841 @@
+{
+  "summary": {
+    "total_checked": 201,
+    "available": 118,
+    "unavailable": 83,
+    "errors": 0
+  },
+  "top_20": [
+    {
+      "title": "Manager",
+      "count": 20389166,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Director",
+      "count": 8254128,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Engineer",
+      "count": 6533469,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sales",
+      "count": 5066031,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Specialist",
+      "count": 4553303,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Consultant",
+      "count": 3647034,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Analyst",
+      "count": 2971428,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Associate",
+      "count": 2956441,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Officer",
+      "count": 2901098,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Marketing",
+      "count": 2748348,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Lead",
+      "count": 2634325,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Head",
+      "count": 2108534,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Project Manager",
+      "count": 1896355,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Senior Manager",
+      "count": 1814759,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Head of",
+      "count": 1504309,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1452031,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Partner",
+      "count": 1429717,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sales Manager",
+      "count": 1414226,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "CEO",
+      "count": 1339857,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Developer",
+      "count": 1329458,
+      "available": true,
+      "error": null
+    }
+  ],
+  "japanese_available": [],
+  "all_available": [
+    {
+      "title": "Manager",
+      "count": 20389166,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Director",
+      "count": 8254128,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Engineer",
+      "count": 6533469,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sales",
+      "count": 5066031,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Specialist",
+      "count": 4553303,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Consultant",
+      "count": 3647034,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Analyst",
+      "count": 2971428,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Associate",
+      "count": 2956441,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Officer",
+      "count": 2901098,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Marketing",
+      "count": 2748348,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Lead",
+      "count": 2634325,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Head",
+      "count": 2108534,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Project Manager",
+      "count": 1896355,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Senior Manager",
+      "count": 1814759,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Head of",
+      "count": 1504309,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1452031,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Partner",
+      "count": 1429717,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sales Manager",
+      "count": 1414226,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "CEO",
+      "count": 1339857,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Developer",
+      "count": 1329458,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 1239764,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Principal",
+      "count": 1158251,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Finance",
+      "count": 1093245,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Advisor",
+      "count": 1088188,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Advisor",
+      "count": 1088188,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Account Manager",
+      "count": 1050640,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Account Manager",
+      "count": 1050640,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Business Development",
+      "count": 960179,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "General Manager",
+      "count": 879969,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Architect",
+      "count": 778426,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Human Resources",
+      "count": 761452,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Managing Director",
+      "count": 692437,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Product Manager",
+      "count": 580590,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "VP",
+      "count": 544302,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Scientist",
+      "count": 501459,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Team Lead",
+      "count": 492951,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Executive Director",
+      "count": 462522,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Account Executive",
+      "count": 456786,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Operations Director",
+      "count": 452797,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Regional Manager",
+      "count": 420674,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sales Representative",
+      "count": 416716,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sales Director",
+      "count": 391816,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Senior Director",
+      "count": 379293,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Executive Officer",
+      "count": 367605,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Supply Chain",
+      "count": 365384,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Associate Director",
+      "count": 345991,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Tax",
+      "count": 340488,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Chief Executive Officer",
+      "count": 333487,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Lecturer",
+      "count": 331305,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Researcher",
+      "count": 314740,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Researcher",
+      "count": 314740,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Recruiter",
+      "count": 294477,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sales Executive",
+      "count": 275013,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Growth",
+      "count": 245244,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Associate Professor",
+      "count": 222911,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Audit",
+      "count": 212750,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "PhD",
+      "count": 208438,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Programmer",
+      "count": 205662,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Production Manager",
+      "count": 202678,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Entrepreneur",
+      "count": 191491,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Financial Analyst",
+      "count": 187987,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Technical Lead",
+      "count": 183533,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Senior Officer",
+      "count": 177421,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "CFO",
+      "count": 172880,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Key Account Manager",
+      "count": 167508,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Global Director",
+      "count": 167124,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 147649,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Chief Financial Officer",
+      "count": 138682,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "District Manager",
+      "count": 135056,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Regional Director",
+      "count": 133722,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sourcing",
+      "count": 133284,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Data Scientist",
+      "count": 121759,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Sales Engineer",
+      "count": 110156,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Brand Manager",
+      "count": 109577,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Treasury",
+      "count": 93623,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Head of Marketing",
+      "count": 87703,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "CPA",
+      "count": 86035,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Executive Vice President",
+      "count": 85874,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Head of Sales",
+      "count": 85212,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 83318,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Research Scientist",
+      "count": 83114,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "General Counsel",
+      "count": 79546,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Security Engineer",
+      "count": 73684,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Chief Technology Officer",
+      "count": 72975,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Content Manager",
+      "count": 66629,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Legal Counsel",
+      "count": 60129,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Category Manager",
+      "count": 59874,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "HR Director",
+      "count": 56006,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Learning and Development",
+      "count": 44507,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "CIO",
+      "count": 40328,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Chief Information Officer",
+      "count": 36597,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Chief Marketing Officer",
+      "count": 35096,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "EVP",
+      "count": 31027,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "People Operations",
+      "count": 30087,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "BD",
+      "count": 23847,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "CCO",
+      "count": 22911,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Corporate Counsel",
+      "count": 19500,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Vendor Manager",
+      "count": 16729,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Chief Product Officer",
+      "count": 16667,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Factory Manager",
+      "count": 15437,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Angel Investor",
+      "count": 12289,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "SEM",
+      "count": 11200,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Chief Human Resources Officer",
+      "count": 10642,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Managing Officer",
+      "count": 7018,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "VC",
+      "count": 6289,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "CHRO",
+      "count": 4831,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "部長",
+      "count": 2899,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "Growth Hacker",
+      "count": 1462,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "税理士",
+      "count": 129,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "主査",
+      "count": 111,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "チームリーダー",
+      "count": 105,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "技術者",
+      "count": 90,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "チーフ",
+      "count": 66,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "営業担当",
+      "count": 65,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "開発部長",
+      "count": 42,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "研究者",
+      "count": 37,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "セールスマネージャー",
+      "count": 23,
+      "available": true,
+      "error": null
+    },
+    {
+      "title": "技術部長",
+      "count": 18,
+      "available": true,
+      "error": null
+    }
+  ]
+}
